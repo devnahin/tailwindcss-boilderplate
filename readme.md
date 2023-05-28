@@ -1,6 +1,6 @@
 # Tailwind CSS Boilerplate
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8dbea3dc-da9d-4524-ba9f-aad17785f152/deploy-status)](https://app.netlify.com/sites/tailwind-css-boilerplate/deploys)
+[![Netlify Status]()](https://app.netlify.com/sites/tailwind-css-ui-boilerplate/)
 
 Setting up a tailwind css based project needs to install the tailwindcss npm package, postcss and autoprefixer - it also requires to configure a tailwind.config.js as well as postcss.config.js (optional, if you're planning to use postcss) and then configure those files manually.
 
@@ -12,8 +12,8 @@ Use this boilerplate as the starting point for your JAMstack + **Tailwind CSS** 
 
 ### start
 ```sh
-git clone this_repository
-cd this_directory
+git clone https://github.com/devnahin/tailwindcss-boilerplace.git project_name
+cd project_name
 yarn
 yarn dev
 ```
